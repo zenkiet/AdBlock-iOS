@@ -1,0 +1,1 @@
+Lite version for low spec devices

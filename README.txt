@@ -1,4 +1,4 @@
-My Repo contain all the host file that can be useable for AdBlock App on iOS
+My Repo contain all the host file that can be useable for AdBlock App on iOS. I'm not the owner, just the on modify them to make it work for iOS.
 
 AdBlock: https://itunes.apple.com/us/app/adblock/id691121579?mt=8
 
