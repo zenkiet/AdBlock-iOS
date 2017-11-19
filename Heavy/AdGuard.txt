@@ -1,6 +1,3 @@
-ocsp.apple.com
-ppq.apple.com
-5.2.76.189
 ads.heyzap.com
 x.heyzap.com
 med.heyzap.com
