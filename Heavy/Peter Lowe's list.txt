@@ -314,6 +314,7 @@ adriver.ru
 adrolays.de
 adrotate.de
 adrotator.se
+adrotic.girlonthenet.com
 adrta.com
 ads-click.com
 ads.4tube.com
@@ -431,7 +432,6 @@ ads.forbes.net
 ads.forium.de
 ads.fortunecity.com
 ads.fotosidan.se
-ads.foxkidseurope.net
 ads.foxnetworks.com
 ads.foxnews.com
 ads.freecity.de
@@ -722,7 +722,6 @@ adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.sharewareonline.com
 adserver.spankaway.com
-adserver.startnow.com
 adserver.theonering.net
 adserver.twitpic.com
 adserver.viagogo.com
@@ -875,6 +874,7 @@ affiliatetracking.net
 affiliatewindow.com
 affiliation-france.com
 afftracking.justanswer.com
+agreemand.com
 ah-ha.com
 ahalogy.com
 aidu-ads.de
@@ -906,6 +906,7 @@ api.intensifier.de
 app.adblockhyper.us
 appsflyer.com
 apture.com
+apusx.com
 arc1.msn.com
 arcadebanners.com
 ard.xxxblackbook.com
@@ -1138,6 +1139,7 @@ chestionar.ro
 chiefcurrent.com
 chinchickens.com
 chitika.net
+christingel.com
 cityads.telus.net
 cj.com
 cjbmanagement.com
@@ -1196,6 +1198,7 @@ cnt.spbland.ru
 cnt1.pocitadlo.cz
 code-server.biz
 coinhive.com
+cointraffic.io
 colonize.com
 comclick.com
 commandwalk.com
@@ -1255,13 +1258,14 @@ creafi-online-media.com
 creative.whi.co.nz
 creatives.as4x.tmcs.net
 creatives.livejasmin.com
-crispads.com
+credishe.com
 criteo.com
 critictruck.com
 crowdgravity.com
 crownclam.com
 crtv.mate1.com
 crwdcntrl.net
+ctnet2.in
 ctnetwork.hu
 cubics.com
 curtaincows.com
@@ -1301,6 +1305,7 @@ directorym.com
 directtrack.com
 discountclick.com
 displayadsmedia.com
+disqusads.com
 dist.belnk.com
 dk4ywix.com
 dmtracker.com
@@ -1344,6 +1349,7 @@ elasticchange.com
 elephantqueue.com
 elitedollars.com
 elitetoplist.com
+elthamely.com
 emarketer.com
 emediate.dk
 emediate.eu
@@ -1479,6 +1485,7 @@ guitarbelieve.com
 gunggo.com
 harrenmedia.com
 harrenmedianetwork.com
+hatevery.info
 havamedia.net
 heias.com
 hellobar.com
@@ -1599,6 +1606,7 @@ jcount.com
 jewelcheese.com
 jinkads.de
 joetec.net
+joneself.com
 js.users.51.la
 jsecoin.com
 juicyads.com
@@ -1608,16 +1616,18 @@ justwebads.com
 k.iinfo.cz
 kanoodle.com
 kargo.com
+karonty.com
 keymedia.hu
 kindads.com
 kissmetrics.com
 kliks.nl
 kniverto.com
+koinser.in
 komoona.com
 kompasads.com
 kontera.com
-kt-g.de
 ktu.sv2.biz
+lacerta.space
 lakequincy.com
 launchbit.com
 layer-ad.de
@@ -1738,8 +1748,10 @@ mlm.de
 mmismm.com
 mmtro.com
 moatads.com
+mob.system-onlline.com
 mobclix.com
 mocean.mobi
+monetate.net
 moneyexpert.com
 monsterpops.com
 mopub.com
@@ -1778,6 +1790,7 @@ nedstatpro.net
 nend.net
 neocounter.neoworx-blog-tools.net
 neoffic.com
+nephritish.com
 net-filter.com
 netaffiliation.com
 netagent.cz
@@ -1849,6 +1862,7 @@ outbrain.com
 ovalpigs.com
 overture.com
 owebmoney.ru
+owneriq.net
 oxado.com
 oxcash.com
 oxen.hillcountrytexas.com
@@ -1893,6 +1907,7 @@ photographpan.com
 phpadsnew.new.natuurpark.nl
 phpmyvisites.net
 picadmedia.com
+piet2eix3l.com
 pietexture.com
 pillscash.com
 pimproll.com
@@ -1939,7 +1954,6 @@ profitrumour.com
 projectwonderful.com
 promo.badoink.com
 promo.ulust.com
-promo1.webcams.nl
 promobenef.com
 promos.bwin.it
 promos.fling.com
@@ -2006,6 +2020,7 @@ realmedia-a800.d4p.net
 realtechnetwork.com
 realtracker.com
 receptiveink.com
+redirectvoluum.com
 reduxmedia.com
 referralware.com
 regnow.com
@@ -2081,7 +2096,6 @@ servedbyopenx.com
 servethis.com
 services.hearstmags.com
 serving-sys.com
-sexadvertentiesite.nl
 sexcounter.com
 sexinyourcity.com
 sexlist.com
@@ -2105,13 +2119,17 @@ sinceresofa.com
 sinoa.com
 sitemeter.com
 sitestat.com
+siteverification.online
 sixsigmatraffic.com
 skimresources.com
 skylink.vn
 slickaffiliate.com
 slopeaota.com
+smart.brvaffs.com
 smart4ads.com
 smartadserver.com
+smartlook.com
+smetrics.walgreens.com
 smowtion.com
 snakesort.com
 snapads.com
@@ -2243,6 +2261,7 @@ tidytrail.com
 tinybar.com
 tizers.net
 tlvmedia.com
+tns-counter.ru
 tntclix.co.uk
 top-casting-termine.de
 top-site-list.com
@@ -2324,6 +2343,7 @@ trmit.com
 truehits.net
 truehits1.gits.net.th
 truehits2.gits.net.th
+tsyndicate.com
 tubemogul.com
 turn.com
 tvmtracker.com
@@ -2334,11 +2354,15 @@ ukbanners.com
 ultimateclixx.com
 ultramercial.com
 unknowntray.com
+unrulymedia.com
 untd.com
 unusualtitle.com
+updated.com
 urlcash.net
 us.a1.yimg.com
 usapromotravel.com
+userreplay.com
+userreplay.net
 utarget.co.uk
 utils.mediageneral.net
 v1.cnzz.com
@@ -2455,6 +2479,7 @@ yieldmanager.com
 yieldmanager.net
 yieldmo.com
 yieldtraffic.com
+yldbt.com
 yoggrt.com
 z5x.net
 zangocash.com
