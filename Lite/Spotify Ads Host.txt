@@ -29,7 +29,6 @@ pubads.g.doubleclick.net
 redirector.gvt1.com
 s0.2mdn.net
 securepubads.g.doubleclick.net
-spclient.wg.spotify.com
 tpc.googlesyndication.com
 v.jwpcdn.com
 video-ad-stats.googlesyndication.com
